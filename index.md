@@ -10,7 +10,7 @@ My GitHub page is http://github.com/Emmett-Lim.
 
 * Lab 8
 
-    Lab 8, part 3 was a favorite because it was really interesting to make animations play on the terminal itself. Sure despite the fact that the coding was mostly following the directions from the TODO comments, but atleast finishing the entire code and then seeing what the results looked like for this part was nice. One thing that I have learned within lab 8 part 3 was a little bit of std::chrono and the usage of sleep_for() function to pause the program's execution.
+    Lab 8, part 3 was a favorite because it was really interesting to make animations play on the terminal itself. Sure, despite the fact that the coding was mostly following the directions from the TODO comments, but atleast finishing the entire code and then seeing what the results looked like for this part was nice. One thing that I have learned within lab 8 part 3 was a little bit of std::chrono and the usage of sleep_for() function to pause the program's execution.
 
 * Lab 11
 
@@ -18,4 +18,4 @@ My GitHub page is http://github.com/Emmett-Lim.
 
 * Lab 12
 
-    Lab 12, part 1 was a favorite of mine because I was able to learn how to make a gif through the use of Magick. Even though I used Magick to make a colored image in Lab 10, part 3, I didn't know how Magick really worked and how to use it. Now, within lab 12 part 1, I was able to understand parts, perhaps most, of Magick and how to create an image from scratch; although I will probably still need to use it more often to actually fully understand it. Besides learning about Magick, I also liked the process of creating the gif itself by making multiple frames and updating each pixel, looping htrough the row and columns of the image frame.
+    Lab 12, part 1 was a favorite of mine because I was able to learn how to make a gif through the use of Magick. Even though I used Magick to make a colored image in Lab 10, part 3, I didn't know how Magick really worked and how to use it. Now, within lab 12 part 1, I was able to understand parts, perhaps most, of Magick and how to create an image from scratch; although I will probably still need to use it more often to actually fully understand it. Besides learning about Magick, I also liked the process of creating the gif itself by making multiple frames and updating each pixel, looping through the row and columns of the image frame.
